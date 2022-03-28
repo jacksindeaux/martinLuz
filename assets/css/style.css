@@ -244,7 +244,7 @@ Blog
 }
 .img-blog-1 {
     background: linear-gradient(180deg, rgba(0, 26, 77, 0) 44.27%, #001A4D 73.44%), 
-    url(/assets/image/post-blog-1.png);
+    url(../../assets/image/post-blog-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 40px;
@@ -252,7 +252,7 @@ Blog
 }
 .img-blog-2 {
     background: linear-gradient(180deg, rgba(0, 26, 77, 0) 44.27%, #001A4D 73.44%), 
-    url(/assets/image/post-blog-2.png);
+    url(../../assets/image/post-blog-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 40px;
@@ -260,7 +260,7 @@ Blog
 
 .img-blog-3 {
     background: linear-gradient(180deg, rgba(0, 26, 77, 0) 44.27%, #001A4D 73.44%), 
-    url(/assets/image/post-blog-3.png);
+    url(../../assets/image/post-blog-3.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 40px;
@@ -403,7 +403,7 @@ footer a {
     left: -20%;
     margin-top: 0px;
     margin-left: 0px;
-    background: url(/assets/image/seta.png);
+    background: url(../../assets/image/seta.png);
     opacity: 0.8;
  }.owl-next::after {
     content: "";
@@ -414,7 +414,7 @@ footer a {
     left: -4%;
     margin-top: 0px;
     margin-left: 0px;
-    background: url(/assets/image/seta.png);
+    background: url(../../assets/image/seta.png);
  }
  
  .owl-next::before {
